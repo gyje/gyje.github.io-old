@@ -1,16 +1,17 @@
 ---
 layout:     post
-title:      "Hello 2015"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
+title:      "New Start,从Wordpress到jekyll"
+subtitle:   " \"Hello World, New Blog\""
+date:       2016-06-29 12:00:00
+author:     "YingJie"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
     - 生活
+	- 总结
 ---
 
-> “Yeah It's on. ”
+> “ Время Летит  ”
 
 
 ## 前言
