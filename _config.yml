@@ -14,9 +14,11 @@ timezone: CN  #这一行是为了让文章可以在当天显示
 
 # SNS settings
 RSS: true
-weibo_username:    123 
-zhihu_username:     123
-github_username:    123
+#hackforums_username:    66265498
+github_username:    pushring0
+#zeronet_username:   19fZz85PJXLAuwpGWe2fLEnU6Z1heprFFJ/
+#weibo_username:    123 
+#zhihu_username:     123
 #twitter_username:  123
 #facebook_username:  123
 #weixin_username:  123
