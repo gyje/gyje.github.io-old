@@ -76,7 +76,7 @@ ga_domain:
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "人生代代无穷已,江月年年只相似"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-YingJie.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
