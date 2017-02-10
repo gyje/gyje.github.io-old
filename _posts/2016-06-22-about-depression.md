@@ -2,7 +2,7 @@
 layout:     post
 title:      "转载-[知乎]-属于抑郁症的消极"
 subtitle:   "抑郁症不简单的是心情不好"
-date:       2016-06-09 12:00:00
+date:       2016-06-22 12:00:00
 author:     "YingJie"
 header-img: "img/text-1-depression.jpg"
 tags:
