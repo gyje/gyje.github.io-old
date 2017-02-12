@@ -109,7 +109,7 @@ tags:
 	Dawes的另一个例子则直接指向了本文一开始提到的实验.假如我是参与这个实验的一个学生,我并不清楚校园中有多少人愿意接受这项挑战,那么不妨就认为这个比例p的先验分布是[0,1]上的均匀分布.接着,我自己选择接受或者拒绝这项挑战,相当于一个单次Bernoulli实验,实验成功的概率就是全校学生愿意接受挑战的比例p.接下来,我就可以据此更新在给定我愿意/拒绝挑战的情况下,p的后验分布是什么样的了.
 </p>
 <p>
-	我们知道,给定比例p,进行n次Bernoulli实验,其中有k次成功的条件概率是<img src="https://zhihu.com/equation?tex=%5Cbinom%7Bn%7D%7Bk%7D+p%5Ek%281-p%29%5E%7Bn-k%7D" alt="\binom{n}{k} p^k(1-p)^{n-k}" eeimg="1">.那么反过来,如果我们进行n次Bernoulli实验,其中有k次成功,比例为p的条件概率就是
+	我们知道,给定比例p,进行n次Bernoulli实验,其中有k次成功的条件概率是<img src="https://zhihu.com/equation?tex=%5Cbinom%7Bn%7D%7Bk%7D+p%5Ek%281-p%29%5E%7Bn-k%7D" />.那么反过来,如果我们进行n次Bernoulli实验,其中有k次成功,比例为p的条件概率就是
 </p>
 <p>
 	<img src="https://zhihu.com/equation?tex=%5Cfrac%7B%5Cbinom%7Bn%7D%7Bk%7Dp%5Ek%281-p%29%5E%7Bn-k%7D%7D%7B%5Cint_0%5E1+%5Cbinom%7Bn%7D%7Bk%7Dq%5Ek%281-q%29%5E%7Bn-k%7D+dq%7D" />.
