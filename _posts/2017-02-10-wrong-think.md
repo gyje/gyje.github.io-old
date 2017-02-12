@@ -7,9 +7,9 @@ author:     "YingJie"
 header-img: "img/blog-2-wrongthink.jpg"
 catalog:	true
 tags:
-	- 心理
-	- 认知偏差
-	- 知乎
+    - 心理
+    - 认知偏差
+    - 知乎
 ---
 
 > "你以为你以为的就是你以为的"------Freebuf黑客与极客社区某文章评论区
