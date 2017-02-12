@@ -5,8 +5,6 @@ subtitle:   "你以为你以为的就是你以为的?"
 date:       2017-02-10 12:00:00
 author:     "YingJie"
 header-img: "img/blog-2-wrongthink.jpg"
-header-mask: 0.3
-navcolor:   "invert"
 catalog:	true
 tags:
     - 心理
