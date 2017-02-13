@@ -25,6 +25,7 @@ tags:
 5. 进入Github,点击头像,点击"settings",点击"SSH and GPG keys"点击New SSH key,给sshkey起个名字填写在title框中,然后把"id_rsa.pub"文件中的内容复制到key框中,点击Add SSH key,应该会有一次密码验证,填写,确定,OK.
 6. 配置用户名和邮箱:
 `git config –global user.name "Github用户名"`
+
 `git config –global user.email "Github邮箱"`
 (再次强调，**双引号用半角符号**)
 7. 可以把这个git窗口关闭了
@@ -39,9 +40,9 @@ tags:
 
 `2. git init (初始化本地文件夹为git仓库)`
 
-`3. git remote add origin git@github.com:github用户名/创建的仓库名.git`
+`3. git remote add origin git@github.com:github用户名/github用户名.github.io.git`
 
-`4. git pull git@github.com:github用户名/创建的仓库名.git`
+`4. git pull git@github.com:github用户名/github用户名.github.io.git`
 
 ### copy jekyll 模板
 
@@ -62,30 +63,28 @@ tags:
 ` git commit -m "本次提交描述"`
 
 ` git push origin master`
+
 完成后浏览器进入：github用户名.github.io网站，这就是你的博客了，当然现在大部分信息是别人的，你需要自己一步步修改。
 
 ### 写新文章
 
-[这里](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)已经描述的很清楚了，简单说一下，就是新建一个2017-02-13-文章标题.md的文件，头部是这样的格式：
+[这里](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)已经描述的很清楚了，简单说一下，就是新建一个xxxx-xx-xx-文章标题.md的文件，头部是这样的格式：
 
-\- - -
-layout:     post
-title:      "标题"
-subtitle:   "子标题"
-date:       2015-01-29 12:00:00(文章发表时间)
-author:     "作者"
-header-img: "img/post-bg-2015.jpg"(背景图)
-tags:
-\- Life(标签)
-\- - -
+![头部格式](http://ww1.sinaimg.cn/large/88b1b9f5ly1fcopv7l41vj20ix0703yw)
 
 有需要注意的几点：
 **1. 文件格式编码一定要是UTF-8无BOM格式**
+
 **2. 头部信息要求特别严格，一定要按照作者说的那样写**
+
 **3. 请自学markdown格式，大概5分钟时间**
 
 这里有几个jekyll主题地址，你可以选择其它模板
+
 [jekyll主题网站0](http://jekyllthemes.org/)
+
 [jekyll主题网站1](https://jekyllthemes.io/)
+
 [jekyll主题网站2](http://themes.jekyllrc.org/)
+
 [jekyll主题网站3](http://yongyuan.name/blog/collect-jekyll-theme.html)
