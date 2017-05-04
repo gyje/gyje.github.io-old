@@ -1,4 +1,19 @@
-### Python日记 2017-05-04 傍晚
+---
+layout:     post
+title:      "Python日记"
+subtitle:   "2017-05-04 傍晚 阴"
+date:       2017-05-04 16:00:00
+author:     "YingJie"
+header-img: "img/newblog.jpg"
+header-mask: 0.3
+navcolor:   "invert"
+catalog:	true
+timezone: CN
+tags:
+    - Python
+    - Daily
+---
+###  
 #### 高阶函数
 
 **1**. 变量可以指向函数
